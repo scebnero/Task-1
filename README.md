@@ -35,7 +35,7 @@
 
 ![Alt text](./image/1726141598599.jpg)
 
-## STEP7 生成的 pickle 檔案將保存到 Pickle_generator/data 資料夾中。
+### STEP7 生成的 pickle 檔案將保存到 Pickle_generator/data 資料夾中。
 
 ![Alt text](./image/1726141640189.jpg)
 ![Alt text](./image/1726141657296.jpg)
